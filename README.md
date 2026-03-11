@@ -26,6 +26,10 @@ The interface is inspired by streaming platforms like Netflix, making it easier 
 - JSON-based video database
 
 ---
+Images of the home screen is in 
+home.png
+and interiror of the profile is in 
+profile1.png and profile2.png
 
 ## 🛠 Tech Stack
 
