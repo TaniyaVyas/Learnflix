@@ -1,0 +1,37 @@
+[
+{"title":"Python for Data Science","category":"data_science","level":"beginner","url":"https://www.youtube.com/embed/r-uOLxNrNk8"},
+{"title":"Machine Learning Crash Course","category":"data_science","level":"trending","url":"https://www.youtube.com/embed/GwIo3gDZCVQ"},
+{"title":"Pandas Tutorial","category":"data_science","level":"beginner","url":"https://www.youtube.com/embed/vmEHCJofslg"},
+{"title":"NumPy Tutorial","category":"data_science","level":"beginner","url":"https://www.youtube.com/embed/QUT1VHiLmmI"},
+{"title":"Statistics for Data Science","category":"data_science","level":"advanced","url":"https://www.youtube.com/embed/xxpc-HPKN28"},
+{"title":"Deep Learning Tutorial","category":"data_science","level":"advanced","url":"https://www.youtube.com/embed/6M5VXKLf4D4"},
+{"title":"TensorFlow Tutorial","category":"data_science","level":"advanced","url":"https://www.youtube.com/embed/tPYj3fFJGjk"},
+{"title":"Data Science Project Tutorial","category":"data_science","level":"recommended","url":"https://www.youtube.com/embed/X3paOmcrTjQ"},
+
+{"title":"HTML Full Course","category":"web_dev","level":"beginner","url":"https://www.youtube.com/embed/UB1O30fR-EE"},
+{"title":"CSS Full Course","category":"web_dev","level":"beginner","url":"https://www.youtube.com/embed/yfoY53QXEnI"},
+{"title":"JavaScript Beginner Tutorial","category":"web_dev","level":"trending","url":"https://www.youtube.com/embed/W6NZfCO5SIk"},
+{"title":"React JS Crash Course","category":"web_dev","level":"advanced","url":"https://www.youtube.com/embed/bMknfKXIFA8"},
+{"title":"Node JS Tutorial","category":"web_dev","level":"advanced","url":"https://www.youtube.com/embed/TlB_eWDSMt4"},
+{"title":"Bootstrap Tutorial","category":"web_dev","level":"beginner","url":"https://www.youtube.com/embed/-qfEOE4vtxE"},
+{"title":"Tailwind CSS Tutorial","category":"web_dev","level":"advanced","url":"https://www.youtube.com/embed/dFgzHOX84xQ"},
+{"title":"Full Stack Web Development","category":"web_dev","level":"recommended","url":"https://www.youtube.com/embed/ZxKM3DCV2kE"},
+
+{"title":"Artificial Intelligence Full Course","category":"ai","level":"trending","url":"https://www.youtube.com/embed/JMUxmLyrhSk"},
+{"title":"Neural Networks Explained","category":"ai","level":"beginner","url":"https://www.youtube.com/embed/aircAruvnKk"},
+{"title":"Deep Learning Basics","category":"ai","level":"advanced","url":"https://www.youtube.com/embed/6M5VXKLf4D4"},
+{"title":"Computer Vision Tutorial","category":"ai","level":"advanced","url":"https://www.youtube.com/embed/oXlwWbU8l2o"},
+{"title":"Natural Language Processing","category":"ai","level":"advanced","url":"https://www.youtube.com/embed/CMrHM8a3hqw"},
+{"title":"AI for Beginners","category":"ai","level":"beginner","url":"https://www.youtube.com/embed/2ePf9rue1Ao"},
+{"title":"ChatGPT Explained","category":"ai","level":"trending","url":"https://www.youtube.com/embed/T-D1OfcDW1M"},
+{"title":"AI Projects Tutorial","category":"ai","level":"recommended","url":"https://www.youtube.com/embed/kWmX3pd1f10"},
+
+{"title":"Python Programming Full Course","category":"programming","level":"beginner","url":"https://www.youtube.com/embed/_uQrJ0TkZlc"},
+{"title":"Java Programming Tutorial","category":"programming","level":"beginner","url":"https://www.youtube.com/embed/grEKMHGYyns"},
+{"title":"C++ Programming Basics","category":"programming","level":"beginner","url":"https://www.youtube.com/embed/vLnPwxZdW4Y"},
+{"title":"C Programming Tutorial","category":"programming","level":"advanced","url":"https://www.youtube.com/embed/KJgsSFOSQv0"},
+{"title":"Object Oriented Programming","category":"programming","level":"advanced","url":"https://www.youtube.com/embed/pTB0EiLXUC8"},
+{"title":"Data Structures Tutorial","category":"programming","level":"advanced","url":"https://www.youtube.com/embed/bum_19loj9A"},
+{"title":"Algorithms Tutorial","category":"programming","level":"advanced","url":"https://www.youtube.com/embed/8hly31xKli0"},
+{"title":"Programming Projects","category":"programming","level":"recommended","url":"https://www.youtube.com/embed/8ext9G7xspg"}
+]

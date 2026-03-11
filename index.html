@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>LearnFlix</title>
+
+<style>
+
+body{
+background:black;
+color:white;
+font-family:Arial;
+margin:0;
+height:100vh;
+display:flex;
+flex-direction:column;
+justify-content:center;
+align-items:center;
+}
+
+.logo{
+color:red;
+font-size:60px;
+font-weight:bold;
+margin-top:80px;
+text-align:center;
+}
+
+.subtitle{
+text-align:center;
+font-size:22px;
+margin-top:10px;
+}
+
+.profiles{
+display:flex;
+justify-content:center;
+gap:50px;
+margin-top:80px;
+}
+
+.profile{
+display:flex;
+flex-direction:column;
+align-items:center;
+text-decoration:none;
+color:white;
+gap:10px;
+transition:0.3s;
+}
+.profile img{
+width:120px;
+height:120px;
+object-fit:cover;
+border-radius:10px;
+}
+.profile:hover{
+background:red;
+transform:scale(1.1);
+}
+
+a{
+text-decoration:none;
+color:white;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="logo">LEARNFLIX</div>
+<div class="subtitle">Who's watching?</div>
+
+<div class="profiles">
+
+<a href="/profile/data_science" class="profile">
+<img src="/static/avatar/data.png">
+<p>Data Science</p>
+</a>
+
+<a href="/profile/web_dev" class="profile">
+<img src="/static/avatar/program.png">
+<p>Website Development</p>
+</a>
+
+<a href="/profile/ai" class="profile">
+<img src="/static/avatar/ai.png">
+<p>Artificial Intelligence</p>
+</a>
+<a href="/profile/programming" class="profile">
+<img src="/static/avatar/web.png">
+<p>Programming</p>
+</a>
+
+</div>
+
+</body>
+</html>
